@@ -200,7 +200,7 @@ for i in loans:
     print(inexpensive_loans)
 
 # @TODO: Print the `inexpensive_loans` list
-# YOUR CODE HERE!
+# print(inexpensive_loans)
 
 
 """Part 5: Save the results.
